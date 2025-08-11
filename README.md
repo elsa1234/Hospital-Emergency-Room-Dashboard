@@ -21,7 +21,7 @@ It provides key insights into patient flow, wait times, admission status, demogr
 - Data Visualization Best Practices
 
 ## 📷 Dashboard Preview
-![Hospital Emergency Room Dashboard](dashboard_screenshot.png)
+![Hospital Emergency Room Dashboard](
 
 ## 📂 Files Included
 - `Hospital_ER_Dashboard.xlsx` → Excel dashboard file
