@@ -20,6 +20,8 @@ It provides key insights into patient flow, wait times, admission status, demogr
 - Conditional Formatting
 - Data Visualization Best Practices
 
+<img width="1116" height="520" alt="image" src="https://github.com/user-attachments/assets/e08f572d-fe87-4c24-aac5-76d76d616fdc" />
+
 ## 🔗 Live Preview
 You can download and explore the dashboard from this repository.
 
