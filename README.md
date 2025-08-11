@@ -20,14 +20,6 @@ It provides key insights into patient flow, wait times, admission status, demogr
 - Conditional Formatting
 - Data Visualization Best Practices
 
-## 📷 Dashboard Preview
-![Hospital Emergency Room Dashboard](
-
-## 📂 Files Included
-- `Hospital_ER_Dashboard.xlsx` → Excel dashboard file
-- `dashboard_screenshot.png` → Image preview of the dashboard
-- `README.md` → Project documentation
-
 ## 🔗 Live Preview
 You can download and explore the dashboard from this repository.
 
